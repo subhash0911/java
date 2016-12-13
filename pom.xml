@@ -39,7 +39,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>Snapshots</name>
-        <url>http://http://127.0.1:8080/nexus-2.14.1-01/content/repositories/snapshots//</url>
+        <url>http://http://127.0.0.1:8080/nexus-2.14.1-01/content/repositories/snapshots//</url>
     </snapshotRepository>
 </distributionManagement>
 	  
